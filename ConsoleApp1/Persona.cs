@@ -16,6 +16,8 @@ namespace ConsoleApp1
 
         public int Edad { get; set; }
 
+        public string Sexo { get; set; }
+
         //Métodos
         //Función
         public string EsMayorEdad(int edadMinima)
